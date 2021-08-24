@@ -1,1 +1,1 @@
-https://jf577.github.io/gis-site/
+https://joshfranklyn.github.io/gis-site/
